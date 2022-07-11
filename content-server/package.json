@@ -1,0 +1,15 @@
+{
+  "name": "cdn-service",
+  "version": "1.0.0",
+  "description": "Content service",
+  "main": "startup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node startup.js"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN <filename>",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}

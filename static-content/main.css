@@ -1,0 +1,13 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#canvas1 {
+    background-color: black;
+}

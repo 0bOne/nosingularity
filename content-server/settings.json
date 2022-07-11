@@ -1,0 +1,5 @@
+{
+    "serviceName": "Admin Console Content Service",
+    "documentRoot": "../static-content",
+    "defaultDocument": "index.html"
+}
